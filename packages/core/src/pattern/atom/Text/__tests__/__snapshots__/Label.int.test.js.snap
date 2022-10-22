@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Label /> Render must match blackLarge 1`] = `
+<div>
+  <span
+    class="label labelBlack labelLarge"
+  >
+    black large label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blackMedium 1`] = `
+<div>
+  <span
+    class="label labelBlack labelMedium"
+  >
+    black medium label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blackSmall 1`] = `
+<div>
+  <span
+    class="label labelBlack labelSmall"
+  >
+    black small label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blackTiny 1`] = `
+<div>
+  <span
+    class="label labelBlack labelTiny"
+  >
+    black tiny label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blueLarge 1`] = `
+<div>
+  <span
+    class="label labelBlue labelLarge"
+  >
+    blue large label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blueMedium 1`] = `
+<div>
+  <span
+    class="label labelBlue labelMedium"
+  >
+    blue medium label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blueSmall 1`] = `
+<div>
+  <span
+    class="label labelBlue labelSmall"
+  >
+    blue small label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match blueTiny 1`] = `
+<div>
+  <span
+    class="label labelBlue labelTiny"
+  >
+    blue tiny label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match greyLarge 1`] = `
+<div>
+  <span
+    class="label labelGrey labelLarge"
+  >
+    grey large label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match greyMedium 1`] = `
+<div>
+  <span
+    class="label labelGrey labelMedium"
+  >
+    grey medium label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match greySmall 1`] = `
+<div>
+  <span
+    class="label labelGrey labelSmall"
+  >
+    grey small label
+  </span>
+</div>
+`;
+
+exports[`<Label /> Render must match greyTiny 1`] = `
+<div>
+  <span
+    class="label labelGrey labelTiny"
+  >
+    grey tiny label
+  </span>
+</div>
+`;
