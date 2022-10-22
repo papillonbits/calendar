@@ -1,0 +1,412 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Calendar /> Render must match regular 1`] = `
+<div>
+  <div
+    class="calendar"
+  >
+    <div
+      class="calendarInput"
+    >
+      <div
+        class="calendarInputLeft"
+      >
+        <div
+          class="calendarInputLeftLabel"
+        >
+          <span
+            class="label labelGrey labelSmall"
+          >
+            Starting date
+          </span>
+        </div>
+        <div
+          class="calendarInputLeftText"
+        >
+          <span
+            class="label labelBlue labelLarge"
+          >
+            
+    07 -
+    08 -
+    2018
+  
+          </span>
+        </div>
+      </div>
+      <div
+        class="calendarInputRight"
+      >
+        <svg
+          class=""
+          fill="#c6c6c6"
+          font-size="1px"
+          height="50"
+          viewBox="0 0 1024 1024"
+          width="50"
+        >
+          <path
+            d="M320 384h128v128h-128zM512 384h128v128h-128zM704 384h128v128h-128zM128 768h128v128h-128zM320 768h128v128h-128zM512 768h128v128h-128zM320 576h128v128h-128zM512 576h128v128h-128zM704 576h128v128h-128zM128 576h128v128h-128zM832 0v64h-128v-64h-448v64h-128v-64h-128v1024h960v-1024h-128zM896 960h-832v-704h832v704z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="calendarView"
+    >
+      <div
+        class="calendarViewLabel"
+      >
+        <span
+          class="label labelGrey labelSmall"
+        >
+          Starting date
+        </span>
+      </div>
+      <div
+        class="calendarViewMonthYear"
+      >
+        <div
+          class="select"
+        >
+          <div
+            class="selectLeft"
+          >
+            <svg
+              class=""
+              fill=""
+              font-size="1px"
+              height="15"
+              viewBox="0 0 1024 1024"
+              width="15"
+            >
+              <path
+                d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+              />
+            </svg>
+          </div>
+          <div
+            class="selectCenter selectCenterMonth"
+          >
+            <span
+              class="label labelBlue labelMedium"
+            >
+              August
+            </span>
+          </div>
+          <div
+            class="selectRight"
+          >
+            <svg
+              class=""
+              fill=""
+              font-size="1px"
+              height="15"
+              viewBox="0 0 1024 1024"
+              width="15"
+            >
+              <path
+                d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="select"
+        >
+          <div
+            class="selectLeft"
+          >
+            <svg
+              class=""
+              fill=""
+              font-size="1px"
+              height="15"
+              viewBox="0 0 1024 1024"
+              width="15"
+            >
+              <path
+                d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+              />
+            </svg>
+          </div>
+          <div
+            class="selectCenter selectCenterYear"
+          >
+            <span
+              class="label labelBlue labelMedium"
+            >
+              2018
+            </span>
+          </div>
+          <div
+            class="selectRight"
+          >
+            <svg
+              class=""
+              fill=""
+              font-size="1px"
+              height="15"
+              viewBox="0 0 1024 1024"
+              width="15"
+            >
+              <path
+                d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        class="calendarViewDay"
+      >
+        <span
+          class="calendarViewDayDay"
+        >
+          Su
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          Ma
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          Tu
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          We
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          Th
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          Fr
+        </span>
+        <span
+          class="calendarViewDayDay"
+        >
+          Sa
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayLastMonth"
+        >
+          29
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayLastMonth"
+        >
+          30
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayLastMonth"
+        >
+          31
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayLastMonth"
+        >
+          32
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayLastMonth"
+        >
+          33
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          1
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          2
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          3
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          4
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          5
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          6
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth calendarViewDayDayToday"
+        >
+          7
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          8
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          9
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          10
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          11
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          12
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          13
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          14
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          15
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          16
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          17
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          18
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          19
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          20
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          21
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          22
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          23
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          24
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          25
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          26
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          27
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          28
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          29
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          30
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          31
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayThisMonth"
+        >
+          32
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayNextMonth"
+        >
+          1
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayNextMonth"
+        >
+          2
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayNextMonth"
+        >
+          3
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayNextMonth"
+        >
+          4
+        </span>
+        <span
+          class="calendarViewDayDay calendarViewDayDayNextMonth"
+        >
+          5
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
