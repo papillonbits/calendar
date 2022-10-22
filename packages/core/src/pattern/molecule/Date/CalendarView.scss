@@ -1,0 +1,66 @@
+/* stylelint-disable declaration-block-no-redundant-longhand-properties, function-no-unknown */
+@import '../../../style/index.scss';
+
+.calendarView {
+  border-style: solid;
+  border-color: $color-grey;
+  border-width: thin;
+  width: 325px;
+
+  &Label {
+    margin: 10px 0 10px 20px;
+  }
+
+  &MonthYear {
+    display: flex;
+    flex-direction: row;
+    width: 280px;
+    justify-content: space-between;
+    text-transform: capitalize;
+    margin-left: 20px;
+  }
+
+  &Day {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 300px;
+    color: $color-grey;
+    user-select: none;
+    cursor: pointer;
+
+    justify-content: space-between;
+    padding: 0 10px 20px;
+
+    &Day {
+      line-height: 30px;
+
+      width: 40px;
+      height: 35px;
+
+      text-align: center;
+      padding-top: 5px;
+
+      &LastMonth {
+        color: $color-grey;
+        background-color: $color-white;
+      }
+
+      &ThisMonth {
+        color: lighten($color-blue-grey, 5);
+        background-color: $color-white;
+      }
+
+      &Today {
+        color: $color-white;
+        background-color: darken($color-blue, 5);
+        border-radius: 5px;
+      }
+
+      &NextMonth {
+        color: $color-grey;
+        background-color: $color-white;
+      }
+    }
+  }
+}

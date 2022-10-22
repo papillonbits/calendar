@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CalendarInput /> Render must match regular 1`] = `
+<div>
+  <div
+    class="calendarInput"
+  >
+    <div
+      class="calendarInputLeft"
+    >
+      <div
+        class="calendarInputLeftLabel"
+      >
+        <span
+          class="label labelGrey labelSmall"
+        >
+          Starting date
+        </span>
+      </div>
+      <div
+        class="calendarInputLeftText"
+      >
+        <span
+          class="label labelBlue labelLarge"
+        >
+          
+    27 -
+    09 -
+    2015
+  
+        </span>
+      </div>
+    </div>
+    <div
+      class="calendarInputRight"
+    >
+      <svg
+        class=""
+        fill="#c6c6c6"
+        font-size="1px"
+        height="50"
+        viewBox="0 0 1024 1024"
+        width="50"
+      >
+        <path
+          d="M320 384h128v128h-128zM512 384h128v128h-128zM704 384h128v128h-128zM128 768h128v128h-128zM320 768h128v128h-128zM512 768h128v128h-128zM320 576h128v128h-128zM512 576h128v128h-128zM704 576h128v128h-128zM128 576h128v128h-128zM832 0v64h-128v-64h-448v64h-128v-64h-128v1024h960v-1024h-128zM896 960h-832v-704h832v704z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
