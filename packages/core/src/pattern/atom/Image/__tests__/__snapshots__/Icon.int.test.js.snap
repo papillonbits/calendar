@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon /> Render must match backward 1`] = `
+<div>
+  <svg
+    class=""
+    fill=""
+    font-size="1px"
+    height="20"
+    viewBox="0 0 1024 1024"
+    width="20"
+  >
+    <path
+      d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+    />
+  </svg>
+</div>
+`;
+
+exports[`<Icon /> Render must match calendar 1`] = `
+<div>
+  <svg
+    class=""
+    fill=""
+    font-size="1px"
+    height="20"
+    viewBox="0 0 1024 1024"
+    width="20"
+  >
+    <path
+      d="M320 384h128v128h-128zM512 384h128v128h-128zM704 384h128v128h-128zM128 768h128v128h-128zM320 768h128v128h-128zM512 768h128v128h-128zM320 576h128v128h-128zM512 576h128v128h-128zM704 576h128v128h-128zM128 576h128v128h-128zM832 0v64h-128v-64h-448v64h-128v-64h-128v1024h960v-1024h-128zM896 960h-832v-704h832v704z"
+    />
+  </svg>
+</div>
+`;
+
+exports[`<Icon /> Render must match chevronThinLeft 1`] = `
+<div>
+  <svg
+    class=""
+    fill=""
+    font-size="1px"
+    height="20"
+    viewBox="0 0 1024 1024"
+    width="20"
+  >
+    <path
+      d="M711.219 879.002c13.722 13.926 13.722 36.301 0 50.125s-35.891 13.875-49.613 0l-400.896-404.89c-13.722-13.824-13.722-36.198 0-50.125l400.896-404.89c13.722-13.824 35.891-13.824 49.613 0 13.722 13.875 13.722 36.301 0 50.125l-365.619 379.853 365.619 379.802z"
+    />
+  </svg>
+</div>
+`;
+
+exports[`<Icon /> Render must match chevronThinRight 1`] = `
+<div>
+  <svg
+    class=""
+    fill=""
+    font-size="1px"
+    height="20"
+    viewBox="0 0 1024 1024"
+    width="20"
+  >
+    <path
+      d="M678.4 499.2l-365.619-379.904c-13.722-13.824-13.722-36.198 0-50.125 13.722-13.824 35.891-13.824 49.613 0l400.896 404.89c13.722 13.875 13.722 36.301 0 50.125l-400.896 404.89c-13.722 13.875-35.891 13.824-49.613 0-13.722-13.773-13.722-36.198 0-50.125l365.619-379.75z"
+    />
+  </svg>
+</div>
+`;
+
+exports[`<Icon /> Render must match forward 1`] = `
+<div>
+  <svg
+    class=""
+    fill=""
+    font-size="1px"
+    height="20"
+    viewBox="0 0 1024 1024"
+    width="20"
+  >
+    <path
+      d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+    />
+  </svg>
+</div>
+`;
