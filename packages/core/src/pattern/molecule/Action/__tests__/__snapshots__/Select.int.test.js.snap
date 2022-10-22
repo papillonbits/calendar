@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> Render must match month 1`] = `
+<div>
+  <div
+    class="select"
+  >
+    <div
+      class="selectLeft"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+        />
+      </svg>
+    </div>
+    <div
+      class="selectCenter selectCenterMonth"
+    >
+      <span
+        class="label labelBlue labelMedium"
+      >
+        NOVEMBER
+      </span>
+    </div>
+    <div
+      class="selectRight"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Select /> Render must match week 1`] = `
+<div>
+  <div
+    class="select"
+  >
+    <div
+      class="selectLeft"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+        />
+      </svg>
+    </div>
+    <div
+      class="selectCenter selectCenterWeek"
+    >
+      <span
+        class="label labelBlue labelMedium"
+      >
+        SUNDAY
+      </span>
+    </div>
+    <div
+      class="selectRight"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Select /> Render must match year 1`] = `
+<div>
+  <div
+    class="select"
+  >
+    <div
+      class="selectLeft"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M576 160v320l320-320v704l-320-320v320l-352-352z"
+        />
+      </svg>
+    </div>
+    <div
+      class="selectCenter selectCenterYear"
+    >
+      <span
+        class="label labelBlue labelMedium"
+      >
+        2899
+      </span>
+    </div>
+    <div
+      class="selectRight"
+    >
+      <svg
+        class=""
+        fill=""
+        font-size="1px"
+        height="15"
+        viewBox="0 0 1024 1024"
+        width="15"
+      >
+        <path
+          d="M512 864v-320l-320 320v-704l320 320v-320l352 352z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

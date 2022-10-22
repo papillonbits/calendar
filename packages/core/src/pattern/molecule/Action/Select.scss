@@ -1,0 +1,29 @@
+.select {
+  display: flex;
+  flex-direction: row;
+
+  &Left {
+    cursor: pointer;
+  }
+
+  &Center {
+    line-height: 15px;
+    text-align: center;
+
+    &Week {
+      width: 110px;
+    }
+
+    &Month {
+      width: 100px;
+    }
+
+    &Year {
+      width: 40px;
+    }
+  }
+
+  &Right {
+    cursor: pointer;
+  }
+}
