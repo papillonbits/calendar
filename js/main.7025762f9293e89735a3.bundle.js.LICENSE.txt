@@ -6,9 +6,9 @@
 
 /*!
  * @project        calendar
- * @name           main.c0c26e64657c27cb0553.bundle.js
+ * @name           main.7025762f9293e89735a3.bundle.js
  * @author         MTS
- * @copyright      Copyright (c) 2023 MTS
+ * @copyright      Copyright (c) 2024 MTS
  */
 
 /**

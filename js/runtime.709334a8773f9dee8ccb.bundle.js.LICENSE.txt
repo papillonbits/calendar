@@ -1,0 +1,6 @@
+/*!
+ * @project        calendar
+ * @name           runtime.709334a8773f9dee8ccb.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2024 MTS
+ */
